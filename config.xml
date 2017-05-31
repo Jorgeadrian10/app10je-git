@@ -42,8 +42,8 @@
  
   <!--colocar icono app -->
  
- <icon src="res/android/logotipo.png" />
+ <icon src="res/logotipo/mdpi.png" />
  
  </widget>
-	
+
 	
